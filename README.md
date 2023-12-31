@@ -27,6 +27,7 @@ with open("/content/swami.txt","r") as f1:
         word=i.split()
         num += len(word)
 print("The number of words are in the file is ",num)
+```
 ### OUTPUT:
 ![EX-05a 1](https://github.com/SwaminathanV23000747/Word-count/assets/148931113/c0ec3987-8f5a-4bab-80bc-48d68737eeba)
 ![ex-05a 2](https://github.com/SwaminathanV23000747/Word-count/assets/148931113/88e00558-314c-44de-aee2-09353d43b177)
